@@ -110,3 +110,5 @@ plt.show()
 
 # fig, ((bar_plot, pie_chart), (scatter_plot, image_plot)) = plt.subplots(2, 2, sharex=False, sharey=False)
 # img = mpimg.imgread('dog.png')
+
+# pandas.date_range
